@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.0.9](https://github.com/open-feature/java-sdk-contrib/compare/dev.openfeature.contrib.providers.flagsmith-v0.0.8...dev.openfeature.contrib.providers.flagsmith-v0.0.9) (2023-12-04)
+
+
+### 🐛 Bug Fixes
+
+* **deps:** update dependency com.squareup.okhttp3:okhttp to v4.12.0 ([#503](https://github.com/open-feature/java-sdk-contrib/issues/503)) ([a82668c](https://github.com/open-feature/java-sdk-contrib/commit/a82668cd6ad4a4026626c67d69ea84c89f617e3b))
+
+
+### 🧹 Chore
+
+* **deps:** update dependency com.squareup.okhttp3:mockwebserver to v4.12.0 ([#502](https://github.com/open-feature/java-sdk-contrib/issues/502)) ([4e0b6ff](https://github.com/open-feature/java-sdk-contrib/commit/4e0b6fffdfdae425be5015440ba0434879db2554))
+
 ## [0.0.8](https://github.com/open-feature/java-sdk-contrib/compare/dev.openfeature.contrib.providers.flagsmith-v0.0.7...dev.openfeature.contrib.providers.flagsmith-v0.0.8) (2023-08-15)
 
 
